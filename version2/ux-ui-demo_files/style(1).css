@@ -7352,40 +7352,6 @@ body.single-galleries {
     max-width: 85rem;
     line-height: 3.8rem;
 }
-
-@media screen and (max-width: 800px){
-	.gallery-hero, .gallery-hero .hero__inner{
-		max-height: 70vw;
-	}
-	.gallery-title-style-dark{
-		text-align: center;
-		padding-left: 10px;
-		padding-right: 10px;
-		padding-top: 25px;
-		padding-bottom: 0px;
-		margin-bottom: -1px;		
-	}
-
-	.gallery-title-style-dark h1{
-		font-size: 3rem;
-		line-height: 3.5rem;
-		margin: 5px 0px;
-	}
-
-	.gallery-title-style-dark p{
-		font-weight: 600;
-		font-size: 2.1rem;
-		max-width: 100%;
-		line-height: 2.8rem;
-		padding: 10px;
-	}
-	.news__inner .news-item.wide_box img{
-		position: static;
-	}
-	.news__inner .news-item.wide_box .wide__box__content{
-		width: 95%;
-	}
-}
 .gallery-title p:not(:last-of-type) {
 	margin-bottom: 2rem;
 }
